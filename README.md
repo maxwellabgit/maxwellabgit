@@ -3,10 +3,11 @@
 - My name is Maxwell Bucholz. This is where I keep some working examples of different data science tools and methods.
 
 <details>
-    <summary>Currently open for hire, something fitting a Data Analyst/Engineer with 1-2 years professional experience.</summary>
+    <summary> - Currently open for hire, something fitting a Data Analyst/Engineer with 1-2 years professional experience.</summary>
     
-1-2 years professional experience + Bachelors
-Looking for a Hybrid position, great with Python
+- 1-2 years professional experience + Bachelors
+- Looking for a Hybrid position, great with Python
+
 <details>
     <summary>As a Data Engineer at Booz Allen Hamilton (Sep 2022 - Present):</summary>
 
@@ -15,6 +16,7 @@ Looking for a Hybrid position, great with Python
     Monte Carlo and other statistical methods, vectorization of existing code
     Database stand-up, augmentation to existing data portfolio, automation for data ingest/output
 </details>
+
 <details>
     <summary>As an Intern at StreetShares (May - August 2019):</summary>
     
