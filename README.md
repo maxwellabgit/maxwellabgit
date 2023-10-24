@@ -17,7 +17,7 @@
   -   Presented final products to sales team and CFO
 
  Most Recently (past 3 months):
- Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
+ - Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
  Attended multiple AI conferences discussing modern AI applications and solutions for cross-domain business problems (healthcare, security, DEIA, Space, etc.)
  Completed a refresher class through Booz Allen Hamilton titled "Deep Learning for NLP" (check repo :bowtie:)</details> 
 
