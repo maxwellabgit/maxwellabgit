@@ -3,7 +3,7 @@
 - My name is Maxwell Bucholz. This is where I keep some working examples of different data science tools and methods.
 
 - Currently open for hire, something fitting a Data Analyst/Engineer with 1-2 years professional experience.
-- <details>"
+- <details>
   1-2 years professional experience + Bachelors
   Looking for a Hybrid position, great with Python
   
@@ -22,7 +22,7 @@
  Most Recently (past 3 months: )Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
  Attended multiple AI conferences discussing modern AI applications and solutions for cross-domain business problems (healthcare, security, DEIA, Space, etc.)
  Completed a refresher class through Booz Allen Hamilton titled "Deep Learning for NLP" (check repo :bowtie:)
- "</details>
+ </details>
 
 
 
