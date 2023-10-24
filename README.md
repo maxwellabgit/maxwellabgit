@@ -25,7 +25,7 @@
     Data Aggregation from seperate on-site servers through tableau prep to Tableau
     Presented final products to sales team and CFO
 </details>
-
+</details>
  
 - Most Recently (past 3 months):
 Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
