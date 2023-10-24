@@ -4,9 +4,10 @@
 
 - Currently open for hire, something fitting a Data Analyst/Engineer with 1-2 years professional experience.
 - <details>
+  '''
   1-2 years professional experience + Bachelors
   Looking for a Hybrid position, great with Python
-  
+  '''
 **As a Data Engineer at Booz Allen Hamilton (Sep 2022 - Present):**'''
   Python, SQL, Databricks, Jupyter, Google Colab, Tableau
   APIs, Requests/Yapki, Pandas, Numpy, pickle, regex
