@@ -5,8 +5,8 @@
 <details>
     <summary>Currently open for hire, something fitting a Data Analyst/Engineer with 1-2 years professional experience.</summary>
 
- 1-2 years professional experience + Bachelors
- Looking for a Hybrid position, great with Python
+     1-2 years professional experience + Bachelors
+     Looking for a Hybrid position, great with Python
 
 
 <details>
@@ -25,14 +25,13 @@
     Data Aggregation from seperate on-site servers through tableau prep to Tableau
     Presented final products to sales team and CFO
 </details>
-
-
-- Most Recently (past 3 months):
-  Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
-Attended multiple AI conferences discussing modern AI applications and solutions for cross-domain business problems (healthcare, security, DEIA, Space, etc.)
-Completed a refresher class through Booz Allen Hamilton titled "Deep Learning for NLP" (check repo :bowtie:)
  </details>
 
+ 
+- Most Recently (past 3 months):
+Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
+Attended multiple AI conferences discussing modern AI applications and solutions for cross-domain business problems (healthcare, security, DEIA, Space, etc.)
+Completed a refresher class through Booz Allen Hamilton titled "Deep Learning for NLP" (check repo :bowtie:)
 
 
 Active on [LinkedIn](https://www.linkedin.com/in/maxwell-bucholz-18b67318a/)
