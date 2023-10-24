@@ -6,7 +6,6 @@
 - <details>
   1-2 years professional experience + Bachelors
   Looking for a Hybrid position, great with Python
-
 As a Data Engineer at Booz Allen Hamilton (Sep 2022 - Present):
   Python, SQL, Databricks, Jupyter, Google Colab, Tableau
   APIs, Requests/Yapki, Pandas, Numpy, pickle, regex
@@ -16,7 +15,7 @@ As an Intern at StreetShares (May - August 2019):
   Python, R, Tableau, Tableau Prep, Microsoft Suite
   Data Aggregation from seperate on-site servers through tableau prep to Tableau
   Presented final products to sales team and CFO
-
+  
  Most Recently (past 3 months: )Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
  Attended multiple AI conferences discussing modern AI applications and solutions for cross-domain business problems (healthcare, security, DEIA, Space, etc.)
  Completed a refresher class through Booz Allen Hamilton titled "Deep Learning for NLP" (check repo :bowtie:)</details>
