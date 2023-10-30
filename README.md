@@ -2,10 +2,10 @@
 
 ### My name is Maxwell Bucholz. This is where I keep some working examples of data science tools and methods.
  
-### Most Recently (past 3 months):
+### Most Recently (past 6 months):
 - Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
 - Attended multiple AI conferences discussing modern AI applications and solutions for cross-domain business problems (healthcare, security, DEIA, Space, etc.)
-- Completed a refresher class through Booz Allen Hamilton titled "Deep Learning for NLP" (check repo :bowtie:)
+- Completed a refresher class through Booz Allen Hamilton titled "Deep Learning for NLP"
 
 Active on [LinkedIn](https://www.linkedin.com/in/maxwell-bucholz-18b67318a/)
 <details>
