@@ -1,13 +1,19 @@
-## 👋 Welcome to my github repo.
+## 👋 Welcome to my github
 
 ### My name is Maxwell Bucholz. This is where I keep some working examples of data science tools and methods.
- 
+
+### Take a look at some of my repos!
+
+- Measure loops vs .apply vs numpy functions processing time in [Databasics-VectorizedOps](https://github.com/maxwellabgit/Databasics-VectorizedOps)
+- Establish a synthetic dataset, apply Monte Carlo Simulations, and visualize with just numpy, pandas, and matplotlib in [Employee-Attrition](https://github.com/maxwellabgit/Employee-Attrition)
+
 ### Most Recently (past 6 months):
 - Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
 - Attended multiple AI conferences discussing modern AI applications and solutions for cross-domain business problems (healthcare, security, DEIA, Space, etc.)
-- Completed a refresher class titled "Deep Learning for NLP"
+- Completed a class titled "Deep Learning for NLP"
 
 Active on [LinkedIn](https://www.linkedin.com/in/maxwell-bucholz-18b67318a/)
+
 <details>
     <summary>Currently open for hire, something fitting a Data Analyst/Engineer with 1-2 years professional experience + bachelors.</summary>
 
