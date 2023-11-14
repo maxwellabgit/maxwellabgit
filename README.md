@@ -4,8 +4,9 @@
 
 ### Take a look at some of my repos!
 
-- Measure loops vs .apply vs numpy functions processing time in [Databasics-VectorizedOps](https://github.com/maxwellabgit/Databasics-VectorizedOps)
 - Establish a synthetic dataset, apply Monte Carlo Simulations, and visualize with just numpy, pandas, and matplotlib in [Employee-Attrition](https://github.com/maxwellabgit/Employee-Attrition)
+- Measure loops vs .apply vs numpy functions processing time in [Databasics-VectorizedOps](https://github.com/maxwellabgit/Databasics-VectorizedOps)
+- Use Databricks secrets with requests and pymssql to pull dasta from different endpoints in [Databasics-Endpoints](https://github.com/maxwellabgit/Databasics-Endpoints)
 
 ### Most Recently (past 6 months):
 - Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
