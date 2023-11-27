@@ -4,19 +4,21 @@
 
 ### Take a look at some of my repos!
 
-- Establish a synthetic dataset, apply Monte Carlo Simulations, and visualize with just numpy, pandas, and matplotlib in [Employee-Attrition](https://github.com/maxwellabgit/Employee-Attrition)
+- Establish a synthetic dataset, apply Monte Carlo Simulations, and visualize with just numpy, pandas, and matplotlib in [Employee-Attrition (in development)](https://github.com/maxwellabgit/Employee-Attrition)
 - Measure loops vs .apply vs numpy functions processing time in [Databasics-VectorizedOps](https://github.com/maxwellabgit/Databasics-VectorizedOps)
-- Use Databricks secrets with requests and pymssql to pull dasta from different endpoints in [Databasics-Endpoints](https://github.com/maxwellabgit/Databasics-Endpoints)
+- Use Databricks secrets with requests and pymssql to pull data from different endpoints in [Databasics-Endpoints](https://github.com/maxwellabgit/Databasics-Endpoints)
+- Review how to push and pull secret keys and values to databricks in [Databricks-Secrets](https://github.com/maxwellabgit/Databricks-Secrets).
 
 ### Most Recently (past 6 months):
 - Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
+- Volunteered as a group mentor representing Booz Allen Hamilton Technical Experience Groups (TXGs) for undergraduate and graduate level analysts, advised on proposal structure improvements and presentation techniques. 
 - Attended multiple AI conferences discussing modern AI applications and solutions for cross-domain business problems (healthcare, security, DEIA, Space, etc.)
 - Completed a class titled "Deep Learning for NLP"
 
 Active on [LinkedIn](https://www.linkedin.com/in/maxwell-bucholz-18b67318a/)
 
 <details>
-    <summary>Currently open for hire, something fitting a Data Analyst/Engineer with 1-2 years professional experience + bachelors.</summary>
+    <summary>Currently open for hire (Data Analyst/Engineer with 1-2 years professional experience + bachelors).</summary>
 
          As a Data Engineer at Booz Allen Hamilton (Sep 2022 - Present):
     Python, SQL, Databricks, Jupyter, Google Colab, Tableau
