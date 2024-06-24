@@ -8,13 +8,13 @@
 - Measure loops vs .apply vs numpy functions processing time in [Databasics-VectorizedOps](https://github.com/maxwellabgit/Databasics-VectorizedOps)
 - Use Databricks secrets with requests and pymssql to pull data from different endpoints in [Databasics-Endpoints](https://github.com/maxwellabgit/Databasics-Endpoints)
 - Review how to push and pull secret keys and values to databricks in [Databricks-Secrets](https://github.com/maxwellabgit/Databricks-Secrets).
-
+<!---
 ### Most Recently (past 6 months):
 - Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
 - Volunteered as a group mentor representing Booz Allen Hamilton Technical Experience Groups (TXGs) for undergraduate and graduate level analysts, advised on proposal structure improvements and presentation techniques. 
 - Attended multiple AI conferences discussing modern AI applications and solutions for cross-domain business problems (healthcare, security, DEIA, Space, etc.)
 - Completed a class titled "Deep Learning for NLP"
-
+--->
 Active on [LinkedIn](https://www.linkedin.com/in/maxwell-bucholz-18b67318a/)
 
 <!--- (<details>
