@@ -3,22 +3,20 @@
 ### My name is Maxwell Bucholz. This is where I keep some working examples of data science tools and methods.
 
 ### Take a look at some of my repos!
-
 - Establish a synthetic dataset, apply Monte Carlo Simulations, and visualize with just numpy, pandas, and matplotlib in [Employee-Attrition](https://github.com/maxwellabgit/Employee-Attrition)
 - Measure loops vs .apply vs numpy functions processing time in [Databasics-VectorizedOps](https://github.com/maxwellabgit/Databasics-VectorizedOps)
 - Use Databricks secrets with requests and pymssql to pull data from different endpoints in [Databasics-Endpoints](https://github.com/maxwellabgit/Databasics-Endpoints)
 - Review how to push and pull secret keys and values to databricks in [Databricks-Secrets](https://github.com/maxwellabgit/Databricks-Secrets).
-<!---
-### Most Recently (past 6 months):
-- Volunteered as a student mentor representing Booz Allen Hamilton partnered with the Mark Cuban Foundation
-- Volunteered as a group mentor representing Booz Allen Hamilton Technical Experience Groups (TXGs) for undergraduate and graduate level analysts, advised on proposal structure improvements and presentation techniques. 
-- Attended multiple AI conferences discussing modern AI applications and solutions for cross-domain business problems (healthcare, security, DEIA, Space, etc.)
-- Completed a class titled "Deep Learning for NLP"
---->
+
+- Coming up:
+    - Nepali to english translation for brillilant labs open-source AR glasses
+    - Wedding website! Completed in 1 hour with the help of just cursor's composer 1.5 model.
+
 Active on [LinkedIn](https://www.linkedin.com/in/maxwell-bucholz-18b67318a/)
 
-<!--- (<details>
+<details>
     <summary>I'm a Full Stack Engineer with 4+ years professional experience + bachelors.</summary>
+    
          As a Full Stack Engineer at WriteHuman (Nov 2024 - Present)
     Fine tuned pretrained huggingface models for multimodal classification problems.
     Designed and built end-to-end AI-powered web applications, spanning frontend interfaces, backend APIs, and model-driven services.
@@ -42,5 +40,4 @@ Active on [LinkedIn](https://www.linkedin.com/in/maxwell-bucholz-18b67318a/)
     Python, R, Tableau, Tableau Prep, Microsoft Suite
     Data Aggregation from seperate on-site servers through tableau prep to Tableau
     Presented final products to sales team and CFO
-</details>)
---->
+</details>
