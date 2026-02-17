@@ -18,9 +18,21 @@
 Active on [LinkedIn](https://www.linkedin.com/in/maxwell-bucholz-18b67318a/)
 
 <!--- (<details>
-    <summary>Currently open for hire (Data Analyst/Engineer with 1-2 years professional experience + bachelors).</summary>
+    <summary>I'm a Full Stack Engineer with 4+ years professional experience + bachelors.</summary>
+         As a Full Stack Engineer at WriteHuman (Nov 2024 - Present)
+    Fine tuned pretrained huggingface models for multimodal classification problems.
+    Designed and built end-to-end AI-powered web applications, spanning frontend interfaces, backend APIs, and model-driven services.
+    Implemented scalable data pipelines and inference workflows for AI content detection and generation systems.
+    Integrated cloud infrastructure, authentication, storage, and observability to support production-grade deployments.
+    Collaborated closely with product and research to rapidly prototype, iterate, and ship user-facing features.
 
-         As a Data Engineer at Booz Allen Hamilton (Sep 2022 - Present):
+         As a Software Engineer at Barbaricum (Jan 2024 - Nov 2024) 
+    Developed and maintained backend services and data-driven applications supporting mission-critical workflows.
+    Built and optimized APIs, processing pipelines, and automation tools to improve reliability and performance.
+    Worked across engineering and analytics teams to translate operational requirements into scalable software solutions.
+    Contributed to code quality, testing, and deployment best practices in a fast-paced environment.
+    
+         As a Data Engineer at Booz Allen Hamilton (Sep 2022 - Jan 2024):
     Python, SQL, Databricks, Jupyter, Google Colab, Tableau
     APIs, Requests/Yapki, Pandas, Numpy, pickle, regex
     Monte Carlo and other statistical methods, vectorization of existing code
