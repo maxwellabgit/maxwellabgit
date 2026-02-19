@@ -10,7 +10,7 @@
 
 - Coming up:
     - Nepali to english translation for brillilant labs open-source AR glasses
-    - Wedding website! Completed in 1 hour with the help of just cursor's composer 1.5 model.
+    - Wedding website! Completed in 1 hour with just the help of cursor's composer 1.5 model.
 
 Active on [LinkedIn](https://www.linkedin.com/in/maxwell-bucholz-18b67318a/)
 
