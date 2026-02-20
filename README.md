@@ -7,10 +7,10 @@
 - Measure loops vs .apply vs numpy functions processing time in [Databasics-VectorizedOps](https://github.com/maxwellabgit/Databasics-VectorizedOps)
 - Use Databricks secrets with requests and pymssql to pull data from different endpoints in [Databasics-Endpoints](https://github.com/maxwellabgit/Databasics-Endpoints)
 - Review how to push and pull secret keys and values to databricks in [Databricks-Secrets](https://github.com/maxwellabgit/Databricks-Secrets).
+- Wedding website! Completed in 1 hour with just the help of cursor's composer 1.5 model at [Wedding](https://github.com/maxwellabgit/Wedding).
 
 - Coming up:
     - Nepali to english translation for brillilant labs open-source AR glasses
-    - Wedding website! Completed in 1 hour with just the help of cursor's composer 1.5 model.
 
 Active on [LinkedIn](https://www.linkedin.com/in/maxwell-bucholz-18b67318a/)
 
